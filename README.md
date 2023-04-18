@@ -1,7 +1,9 @@
 # Hi there, I'm Josman 👋
+I’m in continuously learning and improving my skills by taking several online courses. I consider myself a self-taught person, and I am willing to embrace new technologies and tools. How can we get in touch?
+
 
 <img align='left' width='47%' src="https://github-readme-stats.vercel.app/api?username=jmaldama8110"/>
-<img align='left' width='47%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmaldama8110&langs_count=5" />
+<img width='47%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmaldama8110&langs_count=5" />
 
 ## Languages & Frameworks
 <img align='left' src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
