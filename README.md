@@ -1,12 +1,18 @@
-### Hi there 👋, My name is Josman Gomez
-#### I'm a web developer, father and husband
-![I'm a web developer, father and husband]
+### Hi there 👋, my name is Josman
+#### Father, husband and web developer
+<img src="https://unsplash.com/es/fotos/13mOkIXTsfo" />
 
-After some time as the CTO of a microfinance company I moved back to freelance software development. Now focusing on web development (HTML, CSS, JavaScript) and NodeJs for the backend, I can help build good quality software. I’m in continuous learning and improving my skills by taking several online courses and doing a lot of stackoverflow research. I consider myself a self-taught person, and I am willing to embrace new technologies and tools
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Skills: REACT / JS / HTML / CSS / NODEJS
+Skills: VUE JS / REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
+
+
+
+
+
+
 
 
 <img align='left' width='47%' src="https://github-readme-stats.vercel.app/api?username=jmaldama8110"/>
