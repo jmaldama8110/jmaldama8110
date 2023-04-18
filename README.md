@@ -1,12 +1,14 @@
-### Hi there 👋, my name is Josman
-#### Father, husband and web developer
-
+### Hi there 👋, my name is Arturs
+#### I am GitHub Readme Generator's creator
+![I am GitHub Readme Generator's creator](https://github.com/jmaldama8110/jmaldama8110/blob/main/jm-banner.jpg)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
 Skills: VUE JS / REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
+
+
 
 
 
