@@ -1,5 +1,12 @@
-# Hi there, I'm Josman 👋
-I’m in continuously learning and improving my skills by taking several online courses. I consider myself a self-taught person, and I am willing to embrace new technologies and tools. How can we get in touch?
+### Hi there 👋, My name is Josman Gomez
+#### I'm a web developer, father and husband
+![I'm a web developer, father and husband]
+
+After some time as the CTO of a microfinance company I moved back to freelance software development. Now focusing on web development (HTML, CSS, JavaScript) and NodeJs for the backend, I can help build good quality software. I’m in continuous learning and improving my skills by taking several online courses and doing a lot of stackoverflow research. I consider myself a self-taught person, and I am willing to embrace new technologies and tools
+
+Skills: REACT / JS / HTML / CSS / NODEJS
+
+- 🔭 I’m currently working on this page. 
 
 
 <img align='left' width='47%' src="https://github-readme-stats.vercel.app/api?username=jmaldama8110"/>
@@ -25,4 +32,8 @@ I’m in continuously learning and improving my skills by taking several online 
 ## Styling
 <img align='left' src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
+
+
+
+
 
