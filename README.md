@@ -5,14 +5,22 @@
 #### Father of a lovely girl ❤️‍, husband and web developer
 Learning seamlessly and improving my skills by taking several online courses and doing a lot of stackoverflow research 🔧
 
-Skills: REACT / JS / HTML / CSS
+Skills: IONIC / REACT / JS / HTML / CSS
 
 - I’m currently working on becoming a better human being and professional web developer 
 - I’m looking to collaborate on projects that contribute to this planet be a better place to live in 
 - 📱 How to reach me: +52-9612338665
 - 📧 Say hi to me@josman.dev
-- 
+
+## Recent work examples:
+
+### Conserva Movil App
 ![Part1_AdobeExpress](https://user-images.githubusercontent.com/58443251/233134086-fa3460e4-60ad-4e5c-8346-750c27ed912b.gif)
+### Impulsa ToGo App
+![ImpulsaToG_AdobeExpress](https://user-images.githubusercontent.com/58443251/233138890-a5d234a7-47b0-4bb0-af6d-abb33dc307d9.gif)
+
+### Reimagine Conservation Website
+![Reimaginegif_AdobeExpress](https://user-images.githubusercontent.com/58443251/233139256-efed8a33-f9a7-4982-a664-b7f42b046a89.gif)
 
 ## Social media:
 
@@ -45,8 +53,6 @@ Skills: REACT / JS / HTML / CSS
 ## Styling
 <img align='left' src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
-
-## Work examples:
 
 
 
