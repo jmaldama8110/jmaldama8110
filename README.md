@@ -1,24 +1,29 @@
-### Hi there 👋, my name is Arturs
-#### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://github.com/jmaldama8110/jmaldama8110/blob/main/jm-banner.jpg)
-
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
-
-Skills: VUE JS / REACT / JS / HTML / CSS
-
-- 🔭 I’m currently working on this page. 
 
 
+![Father of a lovely girl, husband and web developer](https://github.com/jmaldama8110/jmaldama8110/blob/main/jm-banner.jpg)
+# Hi there 👋, I'm Josman!
+#### Father of a lovely girl ❤️‍, husband and web developer
+Learning seamlessly and improving my skills by taking several online courses and doing a lot of stackoverflow research 🔧
 
+Skills: REACT / JS / HTML / CSS
 
+- I’m currently working on becoming a better human being and professional web developer 
+- I’m looking to collaborate on projects that contribute to this planet be a better place to live in 
+- 📱 How to reach me: +52-9612338665
+- 📧 Say hi to me@josman.dev
+- 
+![Part1_AdobeExpress](https://user-images.githubusercontent.com/58443251/233134086-fa3460e4-60ad-4e5c-8346-750c27ed912b.gif)
 
+## Social media:
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jmaldama8110)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/josmandev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/josmandev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/16562800/josman)  
 
+## Github Stats:
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmaldama8110)](https://github.com/anuraghazra/github-readme-stats)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jmaldama8110&show_icons=true)  
 
-<img align='left' width='47%' src="https://github-readme-stats.vercel.app/api?username=jmaldama8110"/>
-<img width='47%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmaldama8110&langs_count=5" />
 
 ## Languages & Frameworks
 <img align='left' src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
@@ -41,6 +46,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 <img align='left' src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
 
+## Work examples:
 
 
 
