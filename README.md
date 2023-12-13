@@ -1,6 +1,6 @@
 
 
-![Father of a lovely girl, husband and web developer](https://github.com/jmaldama8110/jmaldama8110/blob/main/jm-banner.jpg)
+![Father of a lovely girl, husband and web developer](https://github.com/jmaldama8110/jmaldama8110/blob/main/jm-studio-background.jpg)
 # Hi there 👋, I'm Josman!
 #### Father of a lovely girl ❤️‍, husband and web developer
 Learning seamlessly and improving my skills by taking several online courses and doing a lot of stackoverflow research 🔧
