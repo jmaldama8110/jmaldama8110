@@ -10,7 +10,7 @@ Skills: IONIC / REACT / JS / HTML / CSS
 - I’m currently working on becoming a better human being and professional web developer 
 - I’m looking to collaborate on projects that contribute to this planet be a better place to live in 
 - 📱 How to reach me: +52-9612338665
-- 📧 Say hi to me@josman.dev
+- 📧 Say hi to jm@aristanetworks.cloud
 
 ## Recent work examples:
 
